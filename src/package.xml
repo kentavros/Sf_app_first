@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>SiteController</members>
+        <name>ApexClass</name>
+    </types>
+    <types>
+        <members>contactList</members>
+        <members>contacts</members>
+        <members>content</members>
+        <members>createTopic</members>
+        <members>learn</members>
+        <members>learnHeader</members>
+        <members>site</members>
+        <members>topic</members>
+        <members>topicContentEvent</members>
+        <name>AuraDefinitionBundle</name>
+    </types>
+    <version>36.0</version>
+</Package>
